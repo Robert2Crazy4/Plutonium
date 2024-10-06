@@ -1,11 +1,11 @@
-Hi everyone
+Welcome
+------------------------
+Hey everyone,
 
-This is my first executor I ever mad with practice this executor has 80 unc with help of Flornicus's ForlornApi which helps you run most scripts and it is completely safe i would never do anything harmful or mean i promise the ui is sleek and mordern
-you can clear your code box to start over your open and save scripts to the scripts built in the executor or save it anywhere you like speaking of built in script folder on left of the executor you can see the scripts you saved and just click on them to see them in the code box once again!
+This is the first executor I've created after a lot of practice, and I'm excited to share it with you! It has 80% UNC, thanks to Flornicus’s ForlornApi, which allows you to run most scripts smoothly and safely. I guarantee there's nothing harmful in it—just a tool to enhance your experience. The UI is sleek and modern, and you can easily clear the code box to start fresh. You can also open and save your scripts directly within the executor or wherever you prefer. On the left side, there's a built-in script folder where you can access your saved scripts with just a click—they'll instantly appear in the code box again!
 
-i am in progress of making a discord server i will put the link here soon
+I'm also working on setting up a Discord server, and I'll share the link here as soon as it's ready.
 
-Upcoming/Maybe Updates
-----------------------
-Tabs
-Monaco/better code editor
+Upcoming/Possible Updates
+--------------------------
+Tabbed system with Monaco or an even better code editor!
